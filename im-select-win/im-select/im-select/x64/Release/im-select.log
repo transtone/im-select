@@ -1,8 +1,9 @@
-﻿  stdafx.cpp
-  im-select.cpp
-d:\code\github\im-select\im-select-win\im-select\im-select\im-select.cpp(14): warning C4311: “类型强制转换”: 从“HKL”到“unsigned int”的指针截断
-d:\code\github\im-select\im-select-win\im-select\im-select\im-select.cpp(14): warning C4302: “类型强制转换”: 从“HKL”到“unsigned int”截断
+﻿  im-select.cpp
+d:\code\github\im-select\im-select-win\im-select\im-select\im-select.cpp(12): warning C4311: “类型强制转换”: 从“HKL”到“unsigned int”的指针截断
+d:\code\github\im-select\im-select-win\im-select\im-select\im-select.cpp(12): warning C4302: “类型强制转换”: 从“HKL”到“unsigned int”截断
   正在生成代码
-  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  2 of 7 functions (28.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
   已完成代码的生成
   im-select.vcxproj -> D:\code\github\im-select\im-select-win\im-select\x64\Release\im-select.exe
