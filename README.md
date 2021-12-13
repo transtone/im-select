@@ -17,7 +17,9 @@ Click [here](https://github.com/daipeihust/im-select/blob/8080ad18f20218d1b6b5ef
 
 ## windows
 
-Download the [im-select.exe](https://github.com/daipeihust/im-select/raw/master/im-select-win/out/x86/im-select.exe), and move it to the proper path.(If you need the 64 bit version, you can download [this one](https://github.com/daipeihust/im-select/raw/master/im-select-win/out/x64/im-select.exe).)
+[微软官方下载 vs2017](https://visualstudio.microsoft.com/zh-hans/vs/older-downloads/)，选择 `使用c++的桌面开发`，在`可选`里把 `windows 8.1 SDK 和 UCRT SDK` 选上，就可以调试编译了。
+
+Download the x64 [im-select.exe](https://github.com/transtone/im-select/raw/master/im-select-win/x64/Release/im-select.exe), and move it to the proper path.(If you need the 64 bit version, you can download [this one](https://github.com/daipeihust/im-select/raw/master/im-select-win/out/x64/im-select.exe).)
 
 ## linux
 
